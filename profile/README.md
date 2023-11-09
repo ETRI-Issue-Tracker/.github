@@ -1,4 +1,4 @@
-# 🚀IssueTracker🚀, 유해 및 동조 컨텐츠 판단 시스템 🍸
+# 🚀IssueTracker - 유해 및 동조 컨텐츠 판단 시스템 🍸
 
 ## 🏝️Intro: 서비스 소개
 <br/>
