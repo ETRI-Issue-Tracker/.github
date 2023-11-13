@@ -59,14 +59,6 @@
 </div>
 
 
-## ✅ 화면 구성 - 프로토타입
-![image](https://github.com/chain-smoker/Marronnier/assets/136250818/7b6d5c54-9228-401a-a010-e597afffb3e6)
-
-
-<br>
-<br>
-<br>
-
 ## 💻 팀원 소개
 
 <table>
